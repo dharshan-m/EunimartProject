@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+button.button {
+    margin-left: 1350px;
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 15px;
+    background-color: red;
+    color: white;
+    font-family: system-ui;
+}
+
+button.button:hover{
+    background-color: black;
+    color: white;
+}
+
+.maindiv{
+    border-style: groove;
+    border-radius: 5px;
+    width: 400px;
+    height: 400px;
+}
+
+.userinfo{
+    cursor: pointer;
+    margin-left: 550px;
+    margin-top: 50px;
+}
+.userinfo:hover{
+    
+}
+img.image {
+    margin-left: 120px;
+    margin-top: 20px;
+    width: 160px;
+    border-radius: 5px;
+}
+.seconddiv{
+    margin-left: 40px;
+    margin-top: 30px;
+}
