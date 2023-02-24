@@ -42,6 +42,7 @@ h1 {
     margin-left: 130px;
 }
 input#Username {
+    font-family: cursive;
     border-style: none;
     width: 250px;
     height: 30px;
@@ -49,6 +50,7 @@ input#Username {
     border-radius: 5px;
 }
 input#PhoneNubmer {
+    font-family: cursive;
     border-style: none;
     width: 250px;
     height: 30px;
@@ -56,6 +58,7 @@ input#PhoneNubmer {
     border-radius: 5px;
 }
 input#email {
+    font-family: cursive;
     border-style: none;
     width: 250px;
     height: 30px;
@@ -63,6 +66,7 @@ input#email {
     border-radius: 5px;
 }
 input#password {
+    font-family: cursive;
     border-style: none;
     width: 250px;
     height: 30px;
