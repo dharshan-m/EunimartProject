@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.page {
+    /* background-image: linear-gradient(45deg, rgb(236, 233, 233), transparent); */
+    background-color: rgb(220, 245, 249);
+    width: 168px;
+    border-radius: 10px;
+    height: 450px;
+    width: 400px;
+    margin-left:580px;
+    margin-top: 120px;
+}
+h1 {
+    margin-left: 159px;
+    font-size: 35px;
+}
+.input1 {
+    margin-top: 20px;
+    margin-left: 73px;
+}
+.input2 {
+    margin-top: 26px;
+    margin-left: 73px;
+}
+.input3 {
+    margin-top: 26px;
+    margin-left: 73px;
+}
+.input4 {
+    margin-top: 26px;
+    margin-left: 73px;
+}
+.input5 {
+    margin-top: 40px;
+    margin-left: 130px;
+}
+input#Username {
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+}
+input#PhoneNubmer {
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+}
+input#email {
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+}
+input#password {
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+}
+button#loginBtn {
+    cursor: pointer;
+    width: 140px;
+    height: 35px;
+    font-size: 20px;
+    
+    border-radius: 20px;
+}
+button#loginBtn:hover{
+    background-color: #1437ed;;
+    color: white;
+}
+b{
+    font-size: 20px;
+}
